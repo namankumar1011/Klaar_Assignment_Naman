@@ -1,4 +1,4 @@
-package TestAddNewUser;
+package TestWorkspaceSettings;
 
 import java.time.Duration;
 

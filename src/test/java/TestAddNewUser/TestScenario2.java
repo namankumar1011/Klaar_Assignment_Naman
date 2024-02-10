@@ -1,4 +1,4 @@
-package TestUserCustomFields;
+package TestAddNewUser;
 
 import java.time.Duration;
 

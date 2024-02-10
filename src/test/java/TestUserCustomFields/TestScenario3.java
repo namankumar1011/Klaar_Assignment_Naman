@@ -1,4 +1,4 @@
-package TestWorkspaceSettings;
+package TestUserCustomFields;
 
 import java.time.Duration;
 
